@@ -1,6 +1,7 @@
 # Sagrada Score Calculator
 
 A companion app for the board game Sagrada that handles end-game scoring.
+
 https://sagrada-score-card.vercel.app/
 
 ## Features
