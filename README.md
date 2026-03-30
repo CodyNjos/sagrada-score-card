@@ -11,6 +11,12 @@ A companion app for the board game Sagrada that handles end-game scoring.
 - Empty space penalty
 - Tap-to-fill 5×4 window grid with color and value painting modes
 
+<p align="center">
+  <img src="Images/homescreen.png" width="30%" />
+  <img src="screenshots/board.png" width="30%" />
+  <img src="screenshots/score-card.png" width="30%" />
+</p>
+
 ## Setup
 
 ```bash
