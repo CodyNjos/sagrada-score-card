@@ -13,8 +13,8 @@ A companion app for the board game Sagrada that handles end-game scoring.
 
 <p align="center">
   <img src="Images/homescreen.png" width="30%" />
-  <img src="screenshots/board.png" width="30%" />
-  <img src="screenshots/score-card.png" width="30%" />
+  <img src="Images/board.png" width="30%" />
+  <img src="Images/score-card.png" width="30%" />
 </p>
 
 ## Setup
